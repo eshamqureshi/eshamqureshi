@@ -1,18 +1,96 @@
-# 💫 About Me:
-I am a Computer Science graduate with a perfect CGPA (4.0/4.0) from Riphah International University, Islamabad, with strong expertise in artificial intelligence, machine learning, and computer vision. I have a solid research background and am a co-author of multiple peer-reviewed journal and conference publications, with additional work under review. My experience includes designing high-performing deep learning models, working with large datasets, and applying advanced techniques such as custom CNNs, transfer learning, and model evaluation using Python, TensorFlow, and PyTorch.<br><br>Alongside research, I have practical experience building end-to-end AI systems and contributing across the full machine learning lifecycle, from data preparation and experimentation to deployment-ready solutions. Through my roles as a Research Assistant and Teaching Assistant, I have developed strong analytical thinking, leadership, and communication skills. I am driven to pursue advanced research and graduate studies, with a long-term goal of building impactful, reliable, and scalable AI solutions for real-world problems.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eshamqureshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mequreshi.cs@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eshamqureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eshamqureshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshamqureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🤖 AI & Computer Vision Researcher | Deep Learning Engineer | Explainable AI
+📍 Islamabad, Pakistan • Open to research collaborations, remote AI/ML roles, internships & contract opportunities
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eshamqureshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+Gold Medalist Computer Science graduate (CGPA 4.0/4.0) with strong research focus on **deep learning**, **computer vision**, and **AI for healthcare & agriculture**.
+
+I build, train and deploy **custom CNN architectures**, hybrid models and transfer learning systems — mostly for medical diagnostics (diabetic retinopathy, breast cancer, brain tumor) and plant disease detection.
+
+Co-authored **10+ peer-reviewed publications** (IEEE, ACM, international journals). Passionate about explainable AI, feature fusion, and production-ready ML solutions.
+
+---
+
+## 🚀 My Core Expertise
+
+### 🧠 Deep Learning & Model Architecture
+- Custom CNNs, Hybrid CNNs, Multi-scale Hierarchical Feature Fusion
+- Transfer learning (InceptionV3, VGG16, DenseNet, ResNet, AlexNet)
+- Ensemble techniques, model optimization & evaluation
+- Frameworks: **TensorFlow**, **Keras**, **PyTorch**
+- Data preprocessing, augmentation, class imbalance handling
+- Explainability: Grad-CAM, attention mechanisms
+
+### 👁️ Computer Vision Applications
+- Medical imaging: Diabetic retinopathy grading, breast cancer histopathology, brain tumor MRI
+- Agricultural imaging: Plant/leaf disease classification (tomato, cassava, PlantVillage dataset)
+- Image classification, multilevel/multiscale feature extraction
+- Tools: **OpenCV**, NumPy, Pandas, scikit-learn
+- Full pipelines: detection-based frameworks, custom feature fusion networks
+
+### 🌱 Domain-Specific AI
+- **Healthcare AI** — Early disease detection & grading (DR, breast cancer, skin diseases)
+- **Precision Agriculture** — Plant disease diagnosis for better crop yield
+- End-to-end systems: from dataset preparation → model training → web deployment
+
+### 🛠️ Deployment & Engineering
+- Built full-stack **AI web applications** (Flask/Django/Streamlit style) with user dashboards, AI inference, consultation modules
+- Cloud: **AWS** (EC2, S3, Lambda, IAM, VPC, EBS)
+- Containerization basics: **Docker**
+- Version control: **Git**, GitHub
+- REST API integration & model serving
+
+---
+
+## 📊 Selected Publications (2025)
+- **MSHFF-Net**: Explainable Multi-Scale Hierarchical Feature Fusion CNN for Breast Cancer Diagnosis (IEEE INMIC) → [DOI](https://doi.org/10.1109/INMIC65900.2025.11348309)
+- **Hybrid CNN** for Diabetic Retinopathy Diagnosis (IJORAS) → [DOI](https://doi.org/10.33093/ijoras.2025.7.2.9)
+- **Hierarchical Feature Fusion with Inception V3** for Early Plant Disease Classification (Informatica) → [DOI](https://doi.org/10.31449/inf.v49i27.8208)
+- **MSCNN**: Lightweight Hybrid CNN for Tomato Plant Disease Classification (ACM DATA’25, in press)
+- + 6 more published/in-press/in-review (total 10+), full list available on **Google Scholar** / **ORCID**
+
+---
+
+## 💼 Experience
+- **Research Assistant** @ NeuralBioScan Lab, Riphah International University (Sept 2024 – Jan 2026)  
+  Built CNNs for DR, brain tumor, plant disease; used transfer learning & custom architectures
+
+- **Data Science Intern** @ Code Alpha (Aug–Sep 2024)  
+  LSTM & regression models, A/B testing, stock prediction
+
+- **Teaching Assistant** @ Riphah International University (Sept 2023 – June 2024)  
+  Data Structures, C++ labs & student mentoring
+
+---
+
+## 🏆 Key Projects
+- **DermaAI** — Full-stack AI web app for skin disease classification with patient/doctor dashboards, video consultation & custom CNN (1st Place – Final Year Project 2025)
+- **Detection-Based Diabetic Retinopathy Diagnosis** — Multi-model comparison (custom CNN + VGG16/DenseNet/AlexNet/Inception)
+- **Plant Disease Classification Pipeline** — Custom multilevel feature fusion CNN on PlantVillage & Cassava datasets
+
+---
+
+## 🛠️ Favorite Tools & Technologies
+
+| Category              | Tools & Technologies                              |
+|-----------------------|---------------------------------------------------|
+| Deep Learning         | TensorFlow, Keras, PyTorch, Custom CNNs           |
+| Computer Vision       | OpenCV, NumPy, Pandas, scikit-learn               |
+| Cloud & Deployment    | AWS (EC2/S3/Lambda), Docker, Git/GitHub           |
+| Languages             | Python, C++, Java, C, Assembly                    |
+| Others                | HTML/CSS/TypeScript, WordPress, MongoDB, Oracle   |
+
+---
+
+## 📬 Let's Connect & Collaborate
+- 💼 [LinkedIn](https://pk.linkedin.com/in/esham007)
+- 📧 mequreshi.cs@gmail.com
+- 📞 +92-333-6669945
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=8AY0VloAAAAJ)
+- 🔬 [ResearchGate](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)
+- 🆔 ORCID (link from your profile)
+
+---
+
+⭐ *Check out my repositories for code, models, and project demos. Open to collaborations on medical AI, agriculture AI, or explainable deep learning!*
