@@ -1,7 +1,7 @@
 # 🤖 AI & Computer Vision Engineer | Deep Learning Specialist | Explainable AI
 
 📍 Islamabad, Pakistan  
-🔭 Open to **remote AI/ML roles**, **research collaborations**, **internships**, **freelance contracts**, and **PhD opportunities** in healthcare/agri AI  
+🔭 Open to **AI/ML roles**, **research collaborations**, **internships**, **freelance contracts**, and **MS/PhD opportunities**  
 🚀 Gold Medalist (CGPA 4.0/4.0) • 1st Place Final Year Project 2025 • 10+ peer-reviewed publications
 
 ---
