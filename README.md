@@ -95,9 +95,7 @@ Co-authored **10+ papers** in IEEE, international journals, and conferences. Alw
 ## 📬 Let's Connect & Collaborate
 💼 [**LinkedIn**](https://pk.linkedin.com/in/esham007)  
 📧 mequreshi.cs@gmail.com  
-📞 +92-333-6669945  
 📚 [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ)  
 🔬 [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)  
 
-⭐ **Star or fork my repos** — open to collaborations on medical/agri AI, explainable DL, or production deployment projects!  
-Feel free to reach out for discussions, code reviews, or joint work.
+⭐ Feel free to reach out for discussions, code reviews, or joint work.
