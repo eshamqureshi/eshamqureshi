@@ -1,96 +1,104 @@
-# 🤖 AI & Computer Vision Researcher | Deep Learning Engineer | Explainable AI
-📍 Islamabad, Pakistan • Open to research collaborations, remote AI/ML roles, internships & contract opportunities
+# 🤖 AI & Computer Vision Engineer | Deep Learning Specialist | Explainable AI
+
+📍 Islamabad, Pakistan  
+🔭 Open to **remote AI/ML roles**, **research collaborations**, **internships**, **freelance contracts**, and **PhD opportunities** in healthcare/agri AI  
+🚀 Gold Medalist (CGPA 4.0/4.0) • 1st Place Final Year Project 2025 • 10+ peer-reviewed publications
 
 ---
 
 ## 👋 About Me
-Gold Medalist Computer Science graduate (CGPA 4.0/4.0) with strong research focus on **deep learning**, **computer vision**, and **AI for healthcare & agriculture**.
 
-I build, train and deploy **custom CNN architectures**, hybrid models and transfer learning systems — mostly for medical diagnostics (diabetic retinopathy, breast cancer, brain tumor) and plant disease detection.
+Recent CS graduate passionate about building **production-ready deep learning systems** for real-world impact.  
 
-Co-authored **10+ peer-reviewed publications** (IEEE, ACM, international journals). Passionate about explainable AI, feature fusion, and production-ready ML solutions.
+Specialize in **computer vision** for **medical diagnostics** (skin diseases, diabetic retinopathy, breast cancer) and **precision agriculture** (plant disease detection).  
+
+I design custom CNNs, apply transfer learning, and deploy end-to-end solutions — from large-scale datasets to full-stack web apps with dashboards.  
+
+Co-authored **10+ papers** in IEEE, international journals, and conferences. Always pushing explainable AI, multi-scale feature fusion, and scalable ML.
 
 ---
 
-## 🚀 My Core Expertise
+## 🚀 Core Expertise
 
-### 🧠 Deep Learning & Model Architecture
-- Custom CNNs, Hybrid CNNs, Multi-scale Hierarchical Feature Fusion
-- Transfer learning (InceptionV3, VGG16, DenseNet, ResNet, AlexNet)
-- Ensemble techniques, model optimization & evaluation
-- Frameworks: **TensorFlow**, **Keras**, **PyTorch**
-- Data preprocessing, augmentation, class imbalance handling
-- Explainability: Grad-CAM, attention mechanisms
+### 🧠 Deep Learning & Architectures
+- Custom & hybrid CNNs • Multi-scale Hierarchical Feature Fusion  
+- Transfer learning: **InceptionV3**, **VGG16**, **DenseNet**, **ResNet**, **AlexNet**  
+- Ensemble methods • Hyperparameter tuning • Ablation studies  
+- Frameworks: **TensorFlow**, **Keras**, **PyTorch** (growing)  
+- Explainability: Grad-CAM, attention mechanisms  
 
-### 👁️ Computer Vision Applications
-- Medical imaging: Diabetic retinopathy grading, breast cancer histopathology, brain tumor MRI
-- Agricultural imaging: Plant/leaf disease classification (tomato, cassava, PlantVillage dataset)
-- Image classification, multilevel/multiscale feature extraction
-- Tools: **OpenCV**, NumPy, Pandas, scikit-learn
-- Full pipelines: detection-based frameworks, custom feature fusion networks
+### 👁️ Computer Vision & Applications
+- Medical imaging: DR grading, breast cancer histopathology, skin lesion classification  
+- Agri imaging: Multi-class plant disease (PlantVillage, Cassava, 18K+ images)  
+- Object detection • Image preprocessing • Augmentation • Class imbalance handling  
+- Tools: **OpenCV**, NumPy, Pandas, scikit-learn  
 
-### 🌱 Domain-Specific AI
-- **Healthcare AI** — Early disease detection & grading (DR, breast cancer, skin diseases)
-- **Precision Agriculture** — Plant disease diagnosis for better crop yield
-- End-to-end systems: from dataset preparation → model training → web deployment
+### 🌱 Domain Impact
+- **Healthcare AI**: Early detection & grading systems (98% binary accuracy in skin detection)  
+- **Precision Agriculture**: Lightweight models for crop protection (97.8% on 24-class task)  
+- Full pipelines: Data prep → Training → Evaluation → **Web deployment**  
 
-### 🛠️ Deployment & Engineering
-- Built full-stack **AI web applications** (Flask/Django/Streamlit style) with user dashboards, AI inference, consultation modules
-- Cloud: **AWS** (EC2, S3, Lambda, IAM, VPC, EBS)
-- Containerization basics: **Docker**
-- Version control: **Git**, GitHub
-- REST API integration & model serving
+### 🛠️ Engineering & Deployment
+- End-to-end web apps (Flask/Streamlit-style) with role-based dashboards & inference  
+- Cloud: **AWS** (EC2, S3, Lambda, IAM, VPC)  
+- Containerization: **Docker** basics  
+- APIs • Model serving • Git/GitHub workflows  
 
 ---
 
 ## 📊 Selected Publications (2025)
-- **MSHFF-Net**: Explainable Multi-Scale Hierarchical Feature Fusion CNN for Breast Cancer Diagnosis (IEEE INMIC) → [DOI](https://doi.org/10.1109/INMIC65900.2025.11348309)
-- **Hybrid CNN** for Diabetic Retinopathy Diagnosis (IJORAS) → [DOI](https://doi.org/10.33093/ijoras.2025.7.2.9)
-- **Hierarchical Feature Fusion with Inception V3** for Early Plant Disease Classification (Informatica) → [DOI](https://doi.org/10.31449/inf.v49i27.8208)
-- **MSCNN**: Lightweight Hybrid CNN for Tomato Plant Disease Classification (ACM DATA’25, in press)
-- + 6 more published/in-press/in-review (total 10+), full list available on **Google Scholar** / **ORCID**
+- **MSHFF-Net**: Explainable Multi-Scale Hierarchical Feature Fusion CNN for Breast Cancer (IEEE INMIC) → [DOI](https://doi.org/10.1109/INMIC65900.2025.11348309)  
+- **Hybrid CNN** for Diabetic Retinopathy Diagnosis (IJORAS) → [DOI](https://doi.org/10.33093/ijoras.2025.7.2.9)  
+- **Hierarchical Feature Fusion with Inception V3** for Plant Disease (Informatica) → [DOI](https://doi.org/10.31449/inf.v49i27.8208)  
+- **MSCNN**: Lightweight Hybrid CNN for Tomato Disease (ACM DATA’25, in press)  
+- +6 more (total 10+) — full list on [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ) / [**ORCID**](https://orcid.org/your-orcid-here) / [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)
 
 ---
 
-## 💼 Experience
-- **Research Assistant** @ NeuralBioScan Lab, Riphah International University (Sept 2024 – Jan 2026)  
-  Built CNNs for DR, brain tumor, plant disease; used transfer learning & custom architectures
-
+## 💼 Experience Snapshot
+- **Research Assistant** @ NeuralBioScan Lab, Riphah Intl. University (Sept 2024 – Jan 2026)  
+  Developed CV models for DR, brain tumor, plant disease; transfer learning & custom fusion nets  
 - **Data Science Intern** @ Code Alpha (Aug–Sep 2024)  
-  LSTM & regression models, A/B testing, stock prediction
-
-- **Teaching Assistant** @ Riphah International University (Sept 2023 – June 2024)  
-  Data Structures, C++ labs & student mentoring
-
----
-
-## 🏆 Key Projects
-- **DermaAI** — Full-stack AI web app for skin disease classification with patient/doctor dashboards, video consultation & custom CNN (1st Place – Final Year Project 2025)
-- **Detection-Based Diabetic Retinopathy Diagnosis** — Multi-model comparison (custom CNN + VGG16/DenseNet/AlexNet/Inception)
-- **Plant Disease Classification Pipeline** — Custom multilevel feature fusion CNN on PlantVillage & Cassava datasets
+  Predictive models (regression, LSTM), EDA, evaluation  
+- **Teaching Assistant** @ Riphah Intl. University (Sept 2023 – June 2024)  
+  Data Structures & C++ labs, student mentoring  
 
 ---
 
-## 🛠️ Favorite Tools & Technologies
+## 🏆 Highlight Projects (Check Repos for Code/Demos)
+- **DermaAI** — Full-stack AI web app for multi-class skin disease diagnosis  
+  Two-stage custom CNN (98% binary, 81.34% multi-class) • Patient/doctor dashboards • 1st Place FYP 2025  
+- **Diabetic Retinopathy Detection** — Detection-based grading framework  
+  Custom CNN vs VGG16/DenseNet/AlexNet/Inception benchmark  
+- **Plant Disease Pipeline** — Lightweight multi-level fusion CNN  
+  97.8% accuracy on 18,908 images (PlantVillage + Cassava)  
 
-| Category              | Tools & Technologies                              |
+*(Pinned repos below showcase code, notebooks, and deployment examples)*
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+| Category              | Technologies                                      |
 |-----------------------|---------------------------------------------------|
 | Deep Learning         | TensorFlow, Keras, PyTorch, Custom CNNs           |
 | Computer Vision       | OpenCV, NumPy, Pandas, scikit-learn               |
-| Cloud & Deployment    | AWS (EC2/S3/Lambda), Docker, Git/GitHub           |
+| Deployment & Cloud    | AWS (EC2/S3/Lambda), Docker, Git/GitHub, REST APIs|
 | Languages             | Python, C++, Java, C, Assembly                    |
-| Others                | HTML/CSS/TypeScript, WordPress, MongoDB, Oracle   |
+| Others                | HTML/CSS/TypeScript, MongoDB, Oracle, WordPress   |
+
+<!-- Optional: Add dynamic stats later -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
 ## 📬 Let's Connect & Collaborate
-- 💼 [LinkedIn](https://pk.linkedin.com/in/esham007)
-- 📧 mequreshi.cs@gmail.com
-- 📞 +92-333-6669945
-- 📚 [Google Scholar](https://scholar.google.com/citations?user=8AY0VloAAAAJ)
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)
-- 🆔 ORCID (link from your profile)
+💼 [**LinkedIn**](https://pk.linkedin.com/in/esham007)  
+📧 mequreshi.cs@gmail.com  
+📞 +92-333-6669945  
+📚 [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ)  
+🔬 [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)  
+🆔 ORCID: [your-orcid-link]  
 
----
-
-⭐ *Check out my repositories for code, models, and project demos. Open to collaborations on medical AI, agriculture AI, or explainable deep learning!*
+⭐ **Star or fork my repos** — open to collaborations on medical/agri AI, explainable DL, or production deployment projects!  
+Feel free to reach out for discussions, code reviews, or joint work.
