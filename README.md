@@ -62,7 +62,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 
 ---
 
-## 🏆 Highlight Projects (Check pinned repos for code, notebooks & demos)
+## 🏆 Highlight Projects
 - **DermaAI**: Full-stack AI web app for multi-class skin disease classification  
   Two-stage custom CNN (98% binary accuracy, 81.34% multi-class) • Role-based dashboards • 1st Place Final Year Project 2025  
 - **Detection-Based Diabetic Retinopathy Diagnosis**: Custom CNN benchmarked against VGG16, DenseNet, AlexNet, Inception  
