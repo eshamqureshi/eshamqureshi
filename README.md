@@ -10,7 +10,7 @@
 
 Results-driven Computer Science graduate passionate about **building scalable, production-grade deep learning systems** that solve real-world problems using **computer vision** and **AI/ML**.
 
-Expert in designing **custom CNN architectures**, leveraging transfer learning, and deploying end-to-end pipelines — from raw large-scale datasets to interactive web applications with inference dashboards.
+Expert in designing **custom CNN architectures**, leveraging transfer learning, and deploying end-to-end pipelines from raw large-scale datasets to interactive web applications with inference dashboards.
 
 Proven track record: high-accuracy models (up to 98% on complex tasks), full ML lifecycle execution, and 10+ publications in IEEE, international journals, and conferences.
 
@@ -48,7 +48,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 - **Hybrid CNN** for Advanced Image-Based Diagnosis (IJORAS) → [DOI](https://doi.org/10.33093/ijoras.2025.7.2.9)  
 - **Hierarchical Feature Fusion with Inception V3** for Efficient Multi-Class Classification (Informatica) → [DOI](https://doi.org/10.31449/inf.v49i27.8208)  
 - **MSCNN**: Lightweight Hybrid CNN for Domain-Specific Tasks (ACM DATA’25, in press)  
-- +3 more in press, 2 under review, 2 in progress (total 10+) — full list on [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ) / [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)
+- +3 more in press, 2 under review, 2 in progress (total 10+), full list on [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ) / [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)
 
 ---
 
@@ -63,11 +63,11 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 ---
 
 ## 🏆 Highlight Projects (Check pinned repos for code, notebooks & demos)
-- **DermaAI** — Full-stack AI web app for multi-class skin disease classification  
+- **DermaAI**: Full-stack AI web app for multi-class skin disease classification  
   Two-stage custom CNN (98% binary accuracy, 81.34% multi-class) • Role-based dashboards • 1st Place Final Year Project 2025  
-- **Detection-Based Diabetic Retinopathy Diagnosis** — Custom CNN benchmarked against VGG16, DenseNet, AlexNet, Inception  
+- **Detection-Based Diabetic Retinopathy Diagnosis**: Custom CNN benchmarked against VGG16, DenseNet, AlexNet, Inception  
   Complete ML pipeline for grading and detection tasks  
-- **Efficient Multi-Class Plant Disease Classification Pipeline** — Lightweight fusion CNN  
+- **Efficient Multi-Class Plant Disease Classification Pipeline**: Lightweight fusion CNN  
   97.8% accuracy across 24 classes on 18,908 images; highly adaptable to other domains  
 
 ---
@@ -95,4 +95,4 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 🔬 [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)  
 
 ⭐ **Open to discussions on computer vision / AI projects, code reviews, joint research, freelance work, or full-time roles.**  
-Feel free to reach out — let's build something impactful together!
+Feel free to reach out, let's build something impactful together!
