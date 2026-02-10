@@ -89,7 +89,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 ---
 
 ## 📬 Let's Connect & Collaborate
-💼 [**LinkedIn**](https://pk.linkedin.com/in/esham007)  
+💼 [**LinkedIn**](https://pk.linkedin.com/in/eshamqureshi)  
 📧 mequreshi.cs@gmail.com  
 📚 [**Google Scholar**](https://scholar.google.com/citations?user=8AY0VloAAAAJ)  
 🔬 [**ResearchGate**](https://www.researchgate.net/profile/Muhammad-Esham-Qureshi)  
