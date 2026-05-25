@@ -1,7 +1,8 @@
-# 🤖 AI/ML Engineer | Deep Learning Specialist | Explainable & Production-Ready AI
+# 🤖 AI/ML Engineer | Deep Learning Specialist | Explainable & Production-Ready AI | Researcher
 
 📍 Islamabad, Pakistan  
-🔭 Open to **AI/ML Engineer roles**, **Computer Vision positions**, **research collaborations**, **freelance contracts**, **remote opportunities**, and **MS/PhD programs** 🚀 Gold Medalist (CGPA 4.0/4.0) • 1st Place Final Year Project 2025 • 8+ peer-reviewed publications (5+ published, 3+ in review/in progress)
+🔭 Open to **AI/ML Engineer roles**, **Computer Vision positions**, **research collaborations**, **freelance contracts**, **remote opportunities**, and **MS/PhD programs** 
+🚀 Gold Medalist (CGPA 4.0/4.0) • 1st Place Final Year Project 2025 • 8+ peer-reviewed publications (5+ published, 3+ in review/in progress)
 
 ---
 
@@ -19,31 +20,41 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 
 ## 🚀 Core Expertise
 
-### 🧠 Deep Learning & Model Architectures
-- Custom & hybrid CNNs • Multi-scale Hierarchical Feature Fusion  
-- Transfer learning: **InceptionV3**, **VGG16**, **DenseNet**, **ResNet**, **AlexNet**, **MobileNet**, **EfficientNet**, **Xception**, and others  
-- Ensemble methods • Hyperparameter tuning • Ablation studies • Class imbalance handling • Large-scale dataset processing  
-- Frameworks: **TensorFlow**, **Keras**, **PyTorch** - Explainability: Grad-CAM, attention mechanisms, interpretable feature analysis  
+### 🧠 Deep Learning & AI Research
+- Custom & Hybrid CNN Design • Multi-Scale Hierarchical Feature Fusion  
+- Hyperparameter Tuning • Ablation Studies • Class Imbalance Handling • Large-Scale Dataset Processing  
+- Transfer Learning & Ensemble Methods • Natural Language Processing (NLP) Basics
+- **Explainable AI (XAI):** Interpretability via Grad-CAM, attention mechanisms, and feature analysis  
 
-### 👁️ Computer Vision Fundamentals & Applications
-- Image classification • Object detection • Semantic/instance segmentation • Human pose estimation • Activity recognition
-- Advanced preprocessing • Data augmentation • Image enhancement • Multi-level & multiscale feature extraction  
-- Robust pipelines for large-scale datasets (10K–100K+ images) and real-time live video streams
-- Tools: **OpenCV**, NumPy, Pandas, scikit-learn  
+### 👁️ Computer Vision Applications
+- Image Classification • Object Detection & Multi-Object Tracking  
+- Human Pose Estimation • Activity Recognition • Semantic & Instance Segmentation  
+- Advanced Image Preprocessing • Data Augmentation • Feature Extraction & Enhancement  
+- **Domain Versatility:** Industrial monitoring/safety compliance, medical diagnostics, precision agriculture, and surveillance analytics.
 
-**Versatile across domains**: industrial monitoring and safety intelligence, medical diagnostics, precision agriculture, surveillance/anomaly detection, and any vision-based challenge.
-
-### 🛠️ Engineering & Deployment
-- End-to-end web applications with role-based dashboards and real-time inference  
-- Distributed event streaming & data workflows: **Apache Kafka**, **Redis** (in-memory caching)
-- API Management & Microservices: **Apache APISIX** (API Gateway), **FastAPI**, Multi-container setups (**Docker**)
-- Hardware acceleration: NVIDIA GPU execution via **CUDA**
-- Cloud infrastructure: **AWS** (EC2, S3, Lambda, IAM, VPC)  
-- Model serving • REST APIs • Git/GitHub workflows • MLOps fundamentals  
+### 🛠️ Systems & Deployment Engineering
+- Microservices & Event-Driven Architectures • Real-Time Data Streaming Workflows  
+- Retrieval-Augmented Generation (RAG) System Workflows • Hardware-Accelerated Containerized Inference  
+- Production End-to-End Web App Integration • Role-Based Dashboards • MLOps Fundamentals & Full ML Lifecycle Execution
 
 ---
 
-## 📊 Selected Publications (2025)
+## 🛠️ Tools & Tech Stack
+
+| Category              | Technologies                                      |
+|-----------------------|---------------------------------------------------|
+| **Deep Learning & ML** | PyTorch, TensorFlow, Keras, scikit-learn |
+| **Computer Vision** | OpenCV, NumPy, Pandas |
+| **Data & Streaming** | Apache Kafka, Redis (In-Memory Caching) |
+| **Infrastructures & MLOps** | Docker, NVIDIA CUDA, REST APIs |
+| **API Gateways & Web**| Apache APISIX, FastAPI, React |
+| **Cloud Platforms** | AWS (EC2, S3, Lambda, IAM, VPC) |
+| **Languages** | Python, C++, Java|
+| **Databases & Others**| HTML5/CSS3, React, SQL |
+
+---
+
+## 📊 Selected Publications
 - **MSHFF-Net**: Explainable Multi-Scale Hierarchical Feature Fusion CNN for Image Analysis (IEEE INMIC) → [DOI](https://doi.org/10.1109/INMIC65900.2025.11348309)  
 - **Hybrid CNN** for Advanced Image-Based Diagnosis (IJORAS) → [DOI](https://doi.org/10.33093/ijoras.2025.7.2.9)  
 - **Hierarchical Feature Fusion with Inception V3** for Efficient Multi-Class Classification (Informatica) → [DOI](https://doi.org/10.31449/inf.v49i27.8208)  
@@ -68,20 +79,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 
 ---
 
-## 🛠️ Tools & Tech Stack
-
-| Category              | Technologies                                      |
-|-----------------------|---------------------------------------------------|
-| **Deep Learning** | TensorFlow, Keras, PyTorch, Custom CNNs, NLP, Explainable AI (XAI) |
-| **Computer Vision** | OpenCV, NumPy, Pandas, scikit-learn               |
-| **Deployment & Cloud**| Docker, Microservices Architecture, RAG Workflows, MLOps, Apache Kafka, Redis, Apache APISIX, AWS (EC2/S3/Lambda), CUDA, REST APIs |
-| **Languages** | Python, C++, Java, C                              |
-| **Others** | HTML/CSS, React, MongoDB, SQL                     |
-
----
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=eshamqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=eshamqureshi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eshamqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
