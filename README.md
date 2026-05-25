@@ -2,6 +2,7 @@
 
 📍 Islamabad, Pakistan  
 🔭 Open to **AI/ML Engineer roles**, **Computer Vision positions**, **research collaborations**, **freelance contracts**, **remote opportunities**, and **MS/PhD programs** 
+
 🚀 Gold Medalist (CGPA 4.0/4.0) • 1st Place Final Year Project 2025 • 8+ peer-reviewed publications (5+ published, 3+ in review/in progress)
 
 ---
@@ -34,7 +35,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 
 ### 🛠️ Systems & Deployment Engineering
 - Microservices & Event-Driven Architectures • Real-Time Data Streaming Workflows  
-- Retrieval-Augmented Generation (RAG) System Workflows • Hardware-Accelerated Containerized Inference  
+- RAG System Workflows • Hardware-Accelerated Containerized Inference  
 - Production End-to-End Web App Integration • Role-Based Dashboards • MLOps Fundamentals & Full ML Lifecycle Execution
 
 ---
