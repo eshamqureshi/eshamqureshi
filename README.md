@@ -87,6 +87,9 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen) -->
 
 ---
+![](https://github-readme-stats.shion.dev/api?username=areebakhan1w&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=areebakhan1w&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=areebakhan1w&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📬 Let's Connect & Collaborate
 💼 [**LinkedIn**](https://pk.linkedin.com/in/eshamqureshi)  
