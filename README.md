@@ -47,7 +47,7 @@ Focused on **explainable AI**, efficient architectures, multi-scale feature fusi
 | **Computer Vision** | OpenCV, NumPy, Pandas |
 | **Data & Streaming** | Apache Kafka, Redis (In-Memory Caching) |
 | **Infrastructures & MLOps** | Docker, NVIDIA CUDA, REST APIs |
-| **API Gateways & Web**| Apache APISIX, FastAPI, React |
+| **API Gateways **| Apache APISIX, FastAPI|
 | **Cloud Platforms** | AWS (EC2, S3, Lambda, IAM, VPC) |
 | **Languages** | Python, C++, Java|
 | **Databases & Others**| HTML5/CSS3, React, SQL |
